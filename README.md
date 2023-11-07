@@ -1,4 +1,4 @@
-# AWS-Project---Build-a-Full-End-to-End-Web-Application-with-7-Services
+# AWS Project Build a Full End-to-End Web Application with 7 Services
 
 
 AWS services used in this project:
